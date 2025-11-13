@@ -21,6 +21,7 @@ This project focuses on analyzing e-commerce sales data from the **Olist Store**
 - **Category Insights:** Average delivery time for Pet Shop and Bebes products is around 11 days, while Audio products take longer (13 days).
 ## Dashboard preview
 https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Excel%20dashboard.png?raw=true
+https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Tableau%20dashboard.png?raw=true
 
 
 ## 📈 Tools & Techniques
