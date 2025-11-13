@@ -19,9 +19,14 @@ This project focuses on analyzing e-commerce sales data from the **Olist Store**
 - **Average Delivery vs Review:** Faster deliveries correlate with higher review scores — deliveries dropped from 21 to 11 days as ratings improved from 1 to 5.  
 - **Yearly Orders:** 2018 recorded the highest order volume (52,778).  
 - **Category Insights:** Average delivery time for Pet Shop and Bebes products is around 11 days, while Audio products take longer (13 days).
+- 
 ## Dashboard preview
-https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Excel%20dashboard.png?raw=true
-https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Tableau%20dashboard.png?raw=true
+# Excel Dashboard
+![Excel Dashboard](https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Excel%20dashboard.png)
+# Tableau Dashboard
+![Tableau Dashboard](https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Tableau%20dashboard.png)
+# Powerbi Dashboard
+![Powerbi Dashboard](https://github.com/pradeepvarma01/Olist-Store-Analysis/blob/main/Olist%20Powerbi%20dashboard.png)
 
 
 ## 📈 Tools & Techniques
